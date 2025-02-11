@@ -5,3 +5,5 @@ age <- 23
 # This is a variable for my age
 
 # My favorite candy is dark chocolate.
+
+# My favourite candy is dark chocolate pretzel. Not sure if that counts. 
