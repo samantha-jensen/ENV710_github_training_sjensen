@@ -47,3 +47,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Ignoring .Rproj file so that it doesn't interfere with other people's computers
+*.Rproj
