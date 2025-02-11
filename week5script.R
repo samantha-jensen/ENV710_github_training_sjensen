@@ -3,3 +3,5 @@
 # blue
 age <- 23
 # This is a variable for my age
+
+# My favorite candy is dark chocolate.
